@@ -1,0 +1,169 @@
+body {
+    font-family: ;
+    text-transform: capitalize;
+    
+    margin: 0;
+}
+
+.nav{
+    background-color: #333;
+    overflow: hidden;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    float: left;
+}
+
+.header{
+    font-size: 5vh;
+    color: antiquewhite;
+    margin-right: 45rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+li a{
+    display: block;
+    color: white;
+    padding: 14px 16px;
+}
+
+li a:hover {
+    background-color: #04AA6D;
+}
+
+.aboutMe{
+    padding: 15vh;
+    background-color: #333;
+    font-size: 1.5rem;
+    color: antiquewhite;
+
+}
+
+
+.resume{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 15px;
+    cursor: pointer;
+    background-color: DodgerBlue;
+}
+
+.container{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.parentContainer{
+	display: flex;
+    /*place-items:center;*/
+    flex-wrap:wrap;
+
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  width: 25%;
+  margin-left: 6%;
+  margin-top: 6%;
+  background-color: white;
+}
+
+.parentContainer :hover{
+    background-color: #04AA6D;
+}
+.container {
+  padding: 2px 16px;
+  
+}
+
+.card > img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 50%;
+}
+
+.skillContainer{
+    padding: 15vh;
+    font-size: 1.5rem;
+}
+
+.checked {
+    color: orange;
+}
+
+.projectHeader{
+    margin: auto;
+    width: 50%;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cardHeader{
+    color: black;
+    font-size: 25px;
+    margin: 10px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.projectCard{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 40%;
+    margin-left: 6%;
+    margin-top: 6%;
+    background-color: white;
+}
+
+.projectCard > img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+.projectContainer{
+    color: black;
+    font-size: 15px;
+    margin: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.cardFooter{
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.archievement{
+    background-color: white;
+}
+
+.footer{
+    background-color: #333;
+    font-size: 1.5rem;
+    color: antiquewhite;
+}
+
+.textArea{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.socialConnection{
+    width: 15%;
+    margin: auto;
+    padding: 40px;
+}
+
