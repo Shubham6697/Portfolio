@@ -1,7 +1,6 @@
 body {
     font-family: 'Open Sans', sans-serif;
     text-transform: capitalize;
-    
     margin: 0;
 }
 
@@ -79,6 +78,11 @@ li a:hover {
 .parentContainer :hover{
     background-color: #04AA6D;
 }
+
+button:hover{
+    background-color: #04AA6D;
+}
+
 .container {
   padding: 2px 16px;
   
