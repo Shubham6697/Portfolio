@@ -11,7 +11,7 @@
   *i. On GitHub : https://shubham6697.github.io/portfolio/<br/>
   ii. On Netlify : https://festive-cori-e8cb34.netlify.app/index.html*
    
-   *Some Screenshot of project :*
+* *Some Screenshot of project :*
    
  ![Screenshot (1)](https://github.com/Shubham6697/portfolio/blob/c0f277ab29147f21c00ee755bcc0923248a087b0/Screenshot/Screenshot%20(6).png)
  ![Screenshot (2)](https://github.com/Shubham6697/portfolio/blob/d2e035982e4f47ac42d3edb44b9612f805a53841/Screenshot/Screenshot%20(7).png)
