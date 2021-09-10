@@ -135,8 +135,6 @@ li a:hover {
     color: black;
     font-size: 15px;
     margin: 50px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
 }
 
 .cardFooter{
@@ -155,7 +153,6 @@ li a:hover {
 }
 
 .textArea{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
     text-align: center;
 }
