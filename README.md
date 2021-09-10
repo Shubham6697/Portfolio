@@ -1,5 +1,5 @@
 # Portfolio
-<hr/>
+
 This is basically my Portfolio which is based on HTML and CSS.
 
 I have also deploy on GitHub pages the link of page is given below.
