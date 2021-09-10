@@ -29,6 +29,7 @@ a{
 
 li a{
     display: block;
+    border-radius: 90%;
     color: white;
     padding: 14px 16px;
 }
