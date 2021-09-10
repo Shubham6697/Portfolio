@@ -1,8 +1,8 @@
 # Portfolio
 
-### Project Problem -> Portfolio<br/>This is basically my responsive portfolio Web Application which is based on HTML and CSS.<br/>
+* *Project Problem -> Portfolio<br/>This is basically my responsive portfolio Web Application which is based on HTML and CSS.*<br/>
 
-### Project Description ->
+* Project Description ->
     I choose this problem statement because I want to build a platform that showcases my skill as well as about me. From this platform, the recruiter can see my portfolio and the     resume which was attached over there and contact with me through the mail.
 
 * Tech Stack -> HTML and CSS
