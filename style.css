@@ -45,6 +45,9 @@ li a:hover {
     color: antiquewhite;
 }
 
+.aboutText{
+    font-size: 18px;
+}
 
 .resume{
     border: none;
@@ -52,7 +55,7 @@ li a:hover {
     padding: 15px 32px;
     text-align: center;
     font-size: 16px;
-    margin: 15px;
+    margin: 10px;
     cursor: pointer;
     background-color: DodgerBlue;
 }
